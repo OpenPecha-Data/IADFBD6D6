@@ -1,0 +1,40 @@
+id: IADFBD6D6
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T13:12:38.256678'
+last_modified: '2022-06-19T13:12:38.256694'
+parser: null
+source_metadata:
+  title: Hagiography of Ngor chen Kun dga' bzang po (1382-1456), no. II; Lamdre Lobshe,
+    vol. ka, title no. 22, volume two from the chronological biographies of the Lamdre
+    lineage masters
+  author: sangs rgyas phun tshogs/
+  description: 'Digital version 2.0 {Wylie}; WYLIE COPY of master xml (completed:
+    2013-08-19); converted from external file, unrevised, thematic TEI markup'
+  file_info:
+  - 'Language: Wylie'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:Sakya Research Centre (src)
+  - Text input:rdzong sar khams bye'i lnga rig slob gling / sde dge rdzong sar/ (dzkj)
+  - Editorial process:Mathias Fermer (mf), Kunga Dorje (kun)
+  - TEI Encoding:Sakya Research Centre
+  - TEI Markup:Mathias Fermer (mf)
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/375
+  bases:
+    6f96:
+      title: Hagiography of Ngor chen Kun dga' bzang po (1382-1456), no. II; Lamdre
+        Lobshe, vol. ka, title no. 22, volume two from the chronological biographies
+        of the Lamdre lineage masters
+      order: 1
+      base_file: 6f96.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
